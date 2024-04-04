@@ -1,0 +1,26 @@
+.container-fluid{
+    background-color: rgb(248, 177, 13);
+}
+.navbar-brand{
+    font-style: bold;
+    color: white;
+    font-size: 30px;
+}
+img.slide{
+    height: 900px;
+}
+.card-title1{
+    color: red;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: 2px solid rgb(246, 91, 7);
+}
+.card-img-top{
+    height: 20rem;
+}
+.row h2{
+    text-decoration: dotted;
+}
